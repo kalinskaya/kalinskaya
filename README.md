@@ -1,5 +1,4 @@
-### bonjour à tous ! je suis actuellement une étudiante à paris :)
-
+### bonjour à tous!
 <!--
 **sl-kvn/sl-kvn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
