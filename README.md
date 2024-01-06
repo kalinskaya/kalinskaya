@@ -1,4 +1,4 @@
-### 2021 US Open Women's Singles Winner
+### Sponsored by Christian Dior
 <!--
 **sl-kvn/sl-kvn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
